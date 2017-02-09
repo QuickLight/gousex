@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gousex">
+    <output-path>$USER_HOME$/Desktop/新建文件夹/plugins</output-path>
+    <root id="archive" name="gousex.jar">
+      <element id="module-output" name="gousex" />
+    </root>
+  </artifact>
+</component>

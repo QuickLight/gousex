@@ -1,0 +1,7 @@
+name: gousex
+version: 0.1
+main: com.goucraft.sex.gouMain
+prefix: 苟性别
+softdepend: [SQLibrary]
+commands:
+  gousex:
